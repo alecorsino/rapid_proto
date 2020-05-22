@@ -1,0 +1,33 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "@zeit/next-stylus": "^1.0.1",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "stylus": "^0.54.7",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "next": "^9.4.2",
+    "ramda": "^0.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.3"
+  }
+}
